@@ -63,7 +63,7 @@ Fault Tolerance: As the application will be quite simple and does not require ma
 
 
 
-High-Level System Architecture:
+High-Level System Architecture: This application will be written in Java. Luckily the functions listed in the canvas LMS API documentation are extensive, so we’ll be able to get the information from each user's canvas calendar. And any user can use the APIs and can access as much information as they are permissible to within the Canvas Web Interference.
 
 
 Team:
